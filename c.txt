@@ -1,1 +1,2 @@
 this is in folder1
+this is in folder2 i am editing
